@@ -19,7 +19,7 @@ Além dos requisitos básicos (Cadastrar, Listar, Remover), este projeto conta c
 * VS Code (Linux)
 
 ## 👩‍💻 Autora
-Nyx - [https://www.linkedin.com/in/nyx0x/]
+Nyx - [LinkedIn](https://www.linkedin.com/in/nyx0x/)
 
 ---
    | `Desenvolvido com muito café`
